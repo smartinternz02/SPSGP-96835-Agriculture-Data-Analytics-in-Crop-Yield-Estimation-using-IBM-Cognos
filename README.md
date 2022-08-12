@@ -6,4 +6,4 @@ https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2
 
 Video link: https://www.youtube.com/watch?v=P-Qi_CdbRjU
 
-Certificates can be founf in the Certificates.rar file.
+Certificates can be found in the Certificates.rar file.
